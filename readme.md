@@ -1,7 +1,7 @@
 ## Installation of project
 - Create database on PhpMyAdmin and import ewsd.sql file from project directory
 - Open command prompt and cd into project directory
-- Run `copy .env.example .env` to generate environment file
+- Run `copy .env.example .env` to generate environment file | `cp .env.example .env` if you're running on Linux
 - Run `composer install` and `php artisan key:generate`
 - Input database credentials in the .env file to ensure its database name is same as the database in PhpMyAdmin
 - Run `php artisan serve` to view project in http://localhost:8000/
