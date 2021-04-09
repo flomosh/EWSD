@@ -3,7 +3,7 @@
 - Open command prompt and cd into project directory
 - Run `copy .env.example .env` to generate environment file
 - Run `composer install` and `php artisan key:generate`
-- Input database credentials in the .env file to ensure its same as the database in PhpMyAdmin
+- Input database credentials in the .env file to ensure its database name is same as the database in PhpMyAdmin
 - Run `php artisan serve` to view project in http://localhost:8000/
 
 ## Account Access
