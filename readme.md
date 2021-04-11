@@ -12,6 +12,7 @@
 - Sample Student Access (Email: tantzeming@gre.ac.uk, Password: 123123123)
 - **All emails in accounts are using the same password `123123123` and their emails can be viewed in the users table**
 
+## Project Preview & Screencast
 - To view the website live, visit https://ewsd.drimglobal.com/ or view the screencast at https://youtu.be/fASfUuXuiQ0
 -------
 
